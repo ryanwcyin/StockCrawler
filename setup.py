@@ -9,7 +9,7 @@ setup(
     license='LICENSE',
     description='Get the historical stock price from yahoo',
 
-    long_description=open('README.txt').read(),
+    long_description=open('README.md').read(),
     install_requires=[
         'pandas',
     ],
