@@ -10,6 +10,11 @@ Clone the project and run `python setup.py install` to install the package.
 
 `pandas` and `python3` are required
 
+Install required packages:
+```
+pip install requirements.txt
+```
+
 ### Quick Start
 
 ```
